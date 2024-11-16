@@ -1,18 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Common;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace Hospital.Repositories
 {
-    public class ApplicationDbContext :IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext // Use DbContext if not using Identity
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
         {
-            
         }
+
+        // Define your DbSet properties here
+        // Example:
+        // public DbSet<Patient> Patients { get; set; }
     }
 }
+

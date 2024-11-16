@@ -1,0 +1,9 @@
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Web\obj\Debug\net8.0\Hospital.Web.csproj.AssemblyReference.cache
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Web\obj\Debug\net8.0\Hospital.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Web\obj\Debug\net8.0\Hospital.Web.AssemblyInfoInputs.cache
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Web\obj\Debug\net8.0\Hospital.Web.AssemblyInfo.cs
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Web\obj\Debug\net8.0\Hospital.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Web\obj\Debug\net8.0\Hospital.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Web\obj\Debug\net8.0\Hospital.Web.RazorAssemblyInfo.cache
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Web\obj\Debug\net8.0\Hospital.Web.RazorAssemblyInfo.cs
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Web\obj\Debug\net8.0\Hospital.Web.sourcelink.json

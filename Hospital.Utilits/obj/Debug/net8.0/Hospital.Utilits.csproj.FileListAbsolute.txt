@@ -1,0 +1,13 @@
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\bin\Debug\net8.0\Hospital.Utilits.deps.json
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\bin\Debug\net8.0\Hospital.Utilits.dll
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\bin\Debug\net8.0\Hospital.Utilits.pdb
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\Hospital.Utilits.csproj.AssemblyReference.cache
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\Hospital.Utilits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\Hospital.Utilits.AssemblyInfoInputs.cache
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\Hospital.Utilits.AssemblyInfo.cs
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\Hospital.Utilits.csproj.CoreCompileInputs.cache
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\Hospital.Utilits.sourcelink.json
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\Hospital.Utilits.dll
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\refint\Hospital.Utilits.dll
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\Hospital.Utilits.pdb
+C:\Users\Sandun\source\repos\Hospital.Web\Hospital.Utilits\obj\Debug\net8.0\ref\Hospital.Utilits.dll
